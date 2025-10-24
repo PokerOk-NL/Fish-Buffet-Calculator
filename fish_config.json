@@ -1,0 +1,11 @@
+{
+  "points_per_rake": 1.0,
+  "tiers": [
+    { "id": "Bronze",   "order": 1, "points_required": 1000,  "cashback_pct": 0.10, "valid_days": 30 },
+    { "id": "Silver",   "order": 2, "points_required": 3000,  "cashback_pct": 0.12, "valid_days": 30 },
+    { "id": "Gold",     "order": 3, "points_required": 8000,  "cashback_pct": 0.15, "valid_days": 30 },
+    { "id": "Platinum", "order": 4, "points_required": 20000, "cashback_pct": 0.18, "valid_days": 30 }
+  ],
+  "resets_on_expiry": true,
+  "progress_carries_over": true
+}
